@@ -1,0 +1,16 @@
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers lab.csprojAssemblyReference.cache
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form1.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form2.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Properties.Resources.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers lab.csproj.GenerateResource.cache
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers lab.csproj.CoreCompileInputs.cache
+D:\Projects\gamers lab\gamers lab\gamers lab\bin\Debug\gamers lab.exe.config
+D:\Projects\gamers lab\gamers lab\gamers lab\bin\Debug\gamers lab.exe
+D:\Projects\gamers lab\gamers lab\gamers lab\bin\Debug\gamers lab.pdb
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers lab.exe
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers lab.pdb
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form3.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form4.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form5.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form6.resources
+D:\Projects\gamers lab\gamers lab\gamers lab\obj\Debug\gamers_lab.Form7.resources
